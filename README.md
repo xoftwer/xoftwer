@@ -33,7 +33,6 @@ to AI-powered applications and data-driven platforms.
   <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
-
 ### 🧰 Tools & Software
 
 <p>
@@ -75,7 +74,6 @@ to AI-powered applications and data-driven platforms.
   <img src="https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
-
 ---
 
 ## 💼 Experience
@@ -102,11 +100,7 @@ to AI-powered applications and data-driven platforms.
 
 ### 📈 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoftwer&layout=compact&theme=tokyonight" />
-</p>
-
----
+![Top Langs](https://xoftwer.github.io/portfolio/top-langs.svg)
 
 ## 📬 Contact
 
