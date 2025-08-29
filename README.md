@@ -1,10 +1,10 @@
 <h1>👋 Hi, I'm Rayan Reynaldo</h1>
 
 <p>
-I’m an introverted developer based in Quezon Province, Philippines.<br>
-My journey began in <b>full-stack web development</b>, later expanding into <b>mobile development</b><br>
+I’m a passionate developer from Quezon Province, Philippines.<br>
+I started my journey in <b>full-stack web development</b> and later expanded into <b>mobile development</b><br>
 and <b>machine learning</b>.<br><br>
-I focus on building <b>efficient</b>, <b>user-friendly</b>, and <b>scalable solutions</b> — from interactive dashboards<br>
+My goal is to create <b>efficient</b>, <b>user-friendly</b>, and <b>scalable solutions</b> — from interactive dashboards<br>
 to AI-powered applications and data-driven platforms.
 </p>
 
