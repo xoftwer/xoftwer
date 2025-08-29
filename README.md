@@ -110,5 +110,5 @@ to AI-powered applications and data-driven platforms.
 
 - 📧 Email: `rayanvegareynaldo@gmail.com`
 - 🐙 GitHub: [github.com/xoftwer](https://github.com/xoftwer)
-- 🌐 Portfolio: [rayanreynaldo.xoftwer.com](https://rayanreynaldo.xoftwer.com)
-- 📘 Facebook: [facebook.com/reynaldorayan.dev](https://facebook.com/reynaldorayan.dev)
+- 🌐 Portfolio: [www.xoftwer.com](https://www.xoftwer.com)
+- 📘 Facebook: [facebook.com/xoftwer](https://facebook.com/xoftwer)
