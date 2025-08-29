@@ -100,7 +100,11 @@ to AI-powered applications and data-driven platforms.
 
 ### 📈 GitHub Stats
 
-![Top Langs](https://xoftwer.github.io/portfolio/top-langs.svg)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xoftwer&layout=compact&theme=tokyonight" />
+</p>
+
+---
 
 ## 📬 Contact
 
